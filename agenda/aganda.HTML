@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Agenda Web</title>
+  <!-- Conexión al archivo CSS externo -->
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <h1>Agenda de Contactos</h1>
+
+  <!-- Formulario para agregar contacto -->
+  <form id="formContacto">
+    <input type="text" id="nombre" placeholder="Nombre" required>
+    <input type="text" id="apellido" placeholder="Apellido" required>
+    <input type="text" id="telefono" placeholder="Teléfono" required>
+    <button type="submit">Guardar</button>
+  </form>
+
+  <h2>Listado de contactos</h2>
+  <ul id="listaContactos"></ul>
+
+  <script>
+    const url = "http://www.raydelto.org/agenda.php";
+
+    // Función para mostrar contactos
+    async function cargarContactos() {
+      const respuesta = await fetch(url);
+      const contactos = await respuesta.json();
+
+      const lista = document.getElementById("listaContactos");
+      lista.innerHTML = "";
+      contactos.forEach(c => {
+        const li = document.createElement("li");
+        li.textContent = `${c.nombre} ${c.apellido} - ${c.telefono}`;
+        lista.appendChild(li);
+      });
+    }
+
+    // Función para agregar contacto
+    document.getElementById("formContacto").addEventListener("submit", async (e) => {
+      e.preventDefault(); 
+
+      const nuevo = {
+        nombre: document.getElementById("nombre").value,
+        apellido: document.getElementById("apellido").value,
+        telefono: document.getElementById("telefono").value
+      };
+
+      await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(nuevo)
+      });
+
+      cargarContactos(); // refrescar lista
+    });
+
+    // Cargar contactos al inicio
+    cargarContactos();
+  </script>
+</body>
+</html>
