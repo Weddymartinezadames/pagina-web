@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda de Contactos - Tarea 5</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 30px auto; padding: 20px; background-color: #f4f4f9; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        input { display: block; width: 100%; padding: 8px; margin: 10px 0; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px; }
+        button { background-color: #007bff; color: white; border: none; padding: 10px 15px; border-radius: 4px; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h2>Registrar Nuevo Contacto</h2>
+        <form id="contactForm">
+            <input type="text" id="nombre" placeholder="Nombre" required>
+            <input type="text" id="apellido" placeholder="Apellido" required>
+            <input type="text" id="telefono" placeholder="Teléfono" required>
+            <button type="submit">Guardar Contacto</button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h2>Lista de Contactos</h2>
+        <button id="cargarBtn">Actualizar Lista</button>
+        <ul id="listaContactos">
+            <!-- Los contactos se cargarán aquí automáticamente -->
+        </ul>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:3000/contactos';
+
+        // Función para listar los contactos al cargar la página o hacer clic
+        async function obtenerContactos() {
+            try {
+                const respuesta = await fetch(API_URL);
+                const resultado = await respuesta.json();
+                
+                const lista = document.getElementById('listaContactos');
+                lista.innerHTML = ''; // Limpiar la lista antes de actualizar
+
+                if (resultado.success && Array.isArray(resultado.data)) {
+                    resultado.data.forEach(contacto => {
+                        const li = document.createElement('li');
+                        li.textContent = `${contacto.nombre} ${contacto.apellido} - Tel: ${contacto.telefono}`;
+                        lista.appendChild(li);
+                    });
+                }
+            } catch (error) {
+                console.error('Error al obtener los contactos:', error);
+            }
+        }
+
+        // Manejar el envío del formulario para almacenar un contacto
+        document.getElementById('contactForm').addEventListener('submit', async (e) => {
+            e.preventDefault(); // Evita que la página se recargue
+
+            const nuevoContacto = {
+                nombre: document.getElementById('nombre').value,
+                apellido: document.getElementById('apellido').value,
+                telefono: document.getElementById('telefono').value
+            };
+
+            try {
+                const respuesta = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(nuevoContacto)
+                });
+
+                const resultado = await respuesta.json();
+
+                if (resultado.success) {
+                    alert('¡Contacto guardado con éxito!');
+                    document.getElementById('contactForm').reset(); // Limpiar formulario
+                    obtenerContactos(); // Recargar la lista automáticamente
+                } else {
+                    alert('Error al guardar: ' + resultado.message);
+                }
+            } catch (error) {
+                console.error('Error en la petición POST:', error);
+                alert('Ocurrió un error al conectar con el servidor.');
+            }
+        });
+
+        // Botón para actualizar manualmente
+        document.getElementById('cargarBtn').addEventListener('click', obtenerContactos);
+
+        // Cargar los contactos automáticamente al abrir la página
+        obtenerContactos();
+    </script>
+</body>
+</html>
