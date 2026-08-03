@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\desktop\\app\\sistemaagenda\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\desktop\\app\\sistemaagenda\\capapresentacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\desktop\\app\\sistemaagenda\\capapresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AD3F60-1C6E-46E3-9493-6DED3FED1EB3}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\capanegocio\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AD3F60-1C6E-46E3-9493-6DED3FED1EB3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0B0B8-0E20-40DD-A533-0DBAAA0FD6D4}|CapaDatos\\CapaDatos.csproj|C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\capadatos\\e_contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0B0B8-0E20-40DD-A533-0DBAAA0FD6D4}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\e_contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0DF12-079A-41D3-85CE-DE6C1293D338}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\capaentidad\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E0DF12-079A-41D3-85CE-DE6C1293D338}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAQwIQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T01:00:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "E_Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaDatos\\E_Contacto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\E_Contacto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaDatos\\E_Contacto.cs",
+              "RelativeToolTip": "CapaDatos\\E_Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T00:55:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Class1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T01:12:20.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T01:00:12.077Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaPresentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T00:59:55.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaNegocio\\Class2.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Class2.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaNegocio\\Class2.cs",
+              "RelativeToolTip": "CapaNegocio\\Class2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T00:58:08.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaEntidad\\Class2.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Class2.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\App\\SistemaAgenda\\CapaEntidad\\Class2.cs",
+              "RelativeToolTip": "CapaEntidad\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T00:55:55.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
