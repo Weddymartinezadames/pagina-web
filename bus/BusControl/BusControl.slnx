@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BUS/BusControl.Presentation.csproj" Id="d72e4f95-ad16-464a-ad79-03426e443e34" />
+  <Project Path="BusControl.Business/BusControl.Business.csproj" Id="09bff38a-5f5a-4b86-b859-915ebe3e3f7e" />
+  <Project Path="BusControl.Data/BusControl.Data.csproj" Id="fe516c7e-d5bd-4eba-922e-875e9c4e45f0" />
+</Solution>

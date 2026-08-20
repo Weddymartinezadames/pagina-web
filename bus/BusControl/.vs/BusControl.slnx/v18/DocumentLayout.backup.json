@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|c:\\users\\pc\\desktop\\aja\\bus\\buscontrol\\buscontrol.business\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|solutionrelative:buscontrol.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\rutadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\rutadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\rutaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\rutaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\rutaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\rutaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\busform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\choferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\choferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\choferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\choferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\choferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\choferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.data\\choferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|solutionrelative:buscontrol.data\\choferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\choferdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\choferdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\busdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\busdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.business\\rutaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09BFF38A-5F5A-4B86-B859-915EBE3E3F7E}|BusControl.Business\\BusControl.Business.csproj|solutionrelative:buscontrol.business\\rutaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\bus\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72E4F95-AD16-464A-AD79-03426E443E34}|BUS\\BusControl.Presentation.csproj|solutionrelative:bus\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|solutionrelative:buscontrol.data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.data\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|solutionrelative:buscontrol.data\\busrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|solutionrelative:buscontrol.data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\buscontrol.data\\rutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE516C7E-D5BD-4EBA-922E-875E9C4E45F0}|BusControl.Data\\BusControl.Data.csproj|solutionrelative:buscontrol.data\\rutarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "BusControl.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\Class1.cs",
+              "RelativeToolTip": "BusControl.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:02:45.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\UsuarioDAO.cs",
+              "RelativeToolTip": "BusControl.Business\\UsuarioDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:53:31.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\UserService.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\UserService.cs",
+              "RelativeToolTip": "BusControl.Business\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:55:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\UserForm.cs",
+              "RelativeDocumentMoniker": "BUS\\UserForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\eo\\BusControl\\BUS\\UserForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\eo\\BusControl\\BUS\\UserForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:38:35.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\AuthService.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\AuthService.cs",
+              "RelativeToolTip": "BusControl.Business\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:01:40.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\BusService.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\BusService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\BusService.cs",
+              "RelativeToolTip": "BusControl.Business\\BusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:49:26.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MainForm.cs",
+              "RelativeDocumentMoniker": "BUS\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BUS\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:44:41.124Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\Program.cs",
+              "RelativeDocumentMoniker": "BUS\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\Program.cs",
+              "RelativeToolTip": "BUS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:10:41.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MenuForm.cs",
+              "RelativeDocumentMoniker": "BUS\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MenuForm.cs",
+              "RelativeToolTip": "BUS\\MenuForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:39:14.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MenuForm.cs",
+              "RelativeDocumentMoniker": "BUS\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\eo\\BusControl\\BUS\\MenuForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\eo\\BusControl\\BUS\\MenuForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:42:35.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\UserForm.cs",
+              "RelativeDocumentMoniker": "BUS\\UserForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\UserForm.cs",
+              "RelativeToolTip": "BUS\\UserForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:54:36.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RutaForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\RutaForm.cs",
+              "RelativeDocumentMoniker": "BUS\\RutaForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\RutaForm.cs",
+              "RelativeToolTip": "BUS\\RutaForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:52:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RutaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\RutaForm.cs",
+              "RelativeDocumentMoniker": "BUS\\RutaForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\eo\\BusControl\\BUS\\RutaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\eo\\BusControl\\BUS\\RutaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T14:37:55.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RutaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\RutaDAO.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\RutaDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\RutaDAO.cs",
+              "RelativeToolTip": "BusControl.Business\\RutaDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T16:56:35.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\BusForm.cs",
+              "RelativeDocumentMoniker": "BUS\\BusForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\BusForm.cs",
+              "RelativeToolTip": "BUS\\BusForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:41:27.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\BusForm.cs",
+              "RelativeDocumentMoniker": "BUS\\BusForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\eo\\BusControl\\BUS\\BusForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\eo\\BusControl\\BUS\\BusForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:41:26.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MainForm.cs",
+              "RelativeDocumentMoniker": "BUS\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\MainForm.cs",
+              "RelativeToolTip": "BUS\\MainForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:40:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChoferDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\ChoferDAO.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\ChoferDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\ChoferDAO.cs",
+              "RelativeToolTip": "BusControl.Business\\ChoferDAO.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:46:02.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChoferService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\ChoferService.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\ChoferService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\ChoferService.cs",
+              "RelativeToolTip": "BusControl.Business\\ChoferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:35:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChoferRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\ChoferRepository.cs",
+              "RelativeDocumentMoniker": "BusControl.Data\\ChoferRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\ChoferRepository.cs",
+              "RelativeToolTip": "BusControl.Data\\ChoferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:34:46.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChoferForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\ChoferForm.cs",
+              "RelativeDocumentMoniker": "BUS\\ChoferForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\ChoferForm.cs",
+              "RelativeToolTip": "BUS\\ChoferForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAcwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:38:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChoferForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\ChoferForm.cs",
+              "RelativeDocumentMoniker": "BUS\\ChoferForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\eo\\BusControl\\BUS\\ChoferForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\eo\\BusControl\\BUS\\ChoferForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T14:28:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\BusDAO.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\BusDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\BusDAO.cs",
+              "RelativeToolTip": "BusControl.Business\\BusDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T18:53:56.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Modelos.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\Modelos.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\Modelos.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\Modelos.cs",
+              "RelativeToolTip": "BusControl.Business\\Modelos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T19:01:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RutaService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\RutaService.cs",
+              "RelativeDocumentMoniker": "BusControl.Business\\RutaService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Business\\RutaService.cs",
+              "RelativeToolTip": "BusControl.Business\\RutaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:53:04.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\App.config",
+              "RelativeDocumentMoniker": "BUS\\App.config",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\App.config",
+              "RelativeToolTip": "BUS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-19T16:54:08.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BUS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\LoginForm.cs",
+              "RelativeToolTip": "BUS\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:07:44.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "BUS\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\LoginForm.Designer.cs",
+              "RelativeToolTip": "BUS\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:30:57.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BUS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\eo\\BusControl\\BUS\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\eo\\BusControl\\BUS\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:07:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\InputHelper.cs",
+              "RelativeDocumentMoniker": "BUS\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BUS\\InputHelper.cs",
+              "RelativeToolTip": "BUS\\InputHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T15:30:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "BusControl.Data\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\DbConnection.cs",
+              "RelativeToolTip": "BusControl.Data\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T15:07:04.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\BusRepository.cs",
+              "RelativeDocumentMoniker": "BusControl.Data\\BusRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\BusRepository.cs",
+              "RelativeToolTip": "BusControl.Data\\BusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBvwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:49:59.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BusControl.Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\UserRepository.cs",
+              "RelativeToolTip": "BusControl.Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:55:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RutaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\RutaRepository.cs",
+              "RelativeDocumentMoniker": "BusControl.Data\\RutaRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\aja\\bus\\BusControl\\BusControl.Data\\RutaRepository.cs",
+              "RelativeToolTip": "BusControl.Data\\RutaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:53:33.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusControl",
+    "\\BusControl\\BUS",
+    "\\BusControl\\BusControl.Business",
+    "\\BusControl\\BusControl.Data",
+    "\\BusControl\\BUS\\bin",
+    "\\BusControl\\BUS\\bin\\Debug"
+  ],
+  "SelectedNode": "\\BusControl\\BusControl.Business\\AuthService.cs",
+  "PreviewInSolutionExplorer": false
+}

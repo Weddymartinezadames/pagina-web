@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\bin\Debug\BusControl.Business.dll
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\bin\Debug\BusControl.Business.pdb
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\bin\Debug\BusControl.Data.dll
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\bin\Debug\BusControl.Data.pdb
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\obj\Debug\BusControl.Business.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\obj\Debug\BusControl.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\obj\Debug\BusContr.BC51CDEE.Up2Date
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\obj\Debug\BusControl.Business.dll
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Business\obj\Debug\BusControl.Business.pdb

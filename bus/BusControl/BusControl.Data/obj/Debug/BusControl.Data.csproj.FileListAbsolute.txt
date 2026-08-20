@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Data\bin\Debug\BusControl.Data.dll
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Data\bin\Debug\BusControl.Data.pdb
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Data\obj\Debug\BusControl.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Data\obj\Debug\BusControl.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Data\obj\Debug\BusControl.Data.dll
+C:\Users\PC\Desktop\eo\BusControl\BusControl.Data\obj\Debug\BusControl.Data.pdb
